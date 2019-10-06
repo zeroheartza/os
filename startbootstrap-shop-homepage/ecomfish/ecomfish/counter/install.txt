@@ -1,0 +1,18 @@
+Instalation of counter class
+-----------------------------
+
+unpack the files under htdocs directory, this made a folder named 
+'counter'
+
+1.- Create a database on mySQL named  'counter'
+
+2.- Run the SQL script named 'statics.sql'
+
+3.- open the folder 'counter' and a message saying the today visits and
+total visits appear...
+
+
+for increment the counter you have to open new instance of your browser.
+
+
+enjoy....
